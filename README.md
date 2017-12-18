@@ -16,7 +16,7 @@
 
 # Chess<a id="sec-1" name="sec-1"></a>
 
-**Lightwieght Chess game implemented using Java Swing UI**
+**Lightweight Chess game implemented using Java Swing UI**
 
 ## Screenshots<a id="sec-1-1" name="sec-1-1"></a>
 
@@ -24,7 +24,7 @@
 
 ![img](./screenshots/undo.gif "Undo")
 
-![img](./screenshots/defaultBoard.png "Default Board")
+![img](./screenshots/default.png "Default Board")
 
 ![img](./screenshots/knight.png "Knight")
 
