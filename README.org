@@ -30,7 +30,7 @@
 [[./screenshots/knight.png]]
 
 ** Acknowledgments
-**** *2016*, /Jaxson Van Doorn/
+**** *GPL 3.0 2016*, /Jaxson Van Doorn/
 ** Other Projects
 **** [[https://github.com/woofers/java-projects/tree/master/Woofers3D][Woofers3D]]
 **** [[https://github.com/woofers/whale][Whale]]

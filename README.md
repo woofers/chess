@@ -30,7 +30,7 @@
 
 ## Acknowledgments<a id="sec-1-2" name="sec-1-2"></a>
 
--   **2016**, *Jaxson Van Doorn*
+-   **GPL 3.0 2016**, *Jaxson Van Doorn*
 
 ## Other Projects<a id="sec-1-3" name="sec-1-3"></a>
 
