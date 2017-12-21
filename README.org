@@ -32,7 +32,7 @@
 ** Acknowledgments
 **** *GPL 3.0 2016*, /Jaxson Van Doorn/
 ** Other Projects
-**** [[https://github.com/woofers/java-projects/tree/master/Woofers3D][Woofers3D]]
+**** [[https://github.com/woofers/woofers3d][Woofers3D]]
 **** [[https://github.com/woofers/whale][Whale]]
 **** [[https://github.com/woofers/k9-krew][K9Krew]]
 **** [[https://github.com/woofers/dotfiles][Dotfiles]]
