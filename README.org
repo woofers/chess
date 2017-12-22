@@ -7,6 +7,8 @@
 * Chess
 *Lightweight Chess game implemented using Java Swing UI*
 
+** Downloads
+Latest releases can be found [[https://github.com/woofers/chess/releases][here]].
 ** Screenshots
 
 #+CAPTION: Movement

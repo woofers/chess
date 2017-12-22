@@ -4,9 +4,10 @@
 <ul>
 <li><a href="#sec-1">Chess</a>
 <ul>
-<li><a href="#sec-1-1">Screenshots</a></li>
-<li><a href="#sec-1-2">Acknowledgments</a></li>
-<li><a href="#sec-1-3">Other Projects</a></li>
+<li><a href="#sec-1-1">Downloads</a></li>
+<li><a href="#sec-1-2">Screenshots</a></li>
+<li><a href="#sec-1-3">Acknowledgments</a></li>
+<li><a href="#sec-1-4">Other Projects</a></li>
 </ul>
 </li>
 </ul>
@@ -18,7 +19,11 @@
 
 **Lightweight Chess game implemented using Java Swing UI**
 
-## Screenshots<a id="sec-1-1" name="sec-1-1"></a>
+## Downloads<a id="sec-1-1" name="sec-1-1"></a>
+
+Latest releases can be found [here](https://github.com/woofers/chess/releases).
+
+## Screenshots<a id="sec-1-2" name="sec-1-2"></a>
 
 ![img](./screenshots/move.gif "Movement")
 
@@ -28,11 +33,11 @@
 
 ![img](./screenshots/knight.png "Knight")
 
-## Acknowledgments<a id="sec-1-2" name="sec-1-2"></a>
+## Acknowledgments<a id="sec-1-3" name="sec-1-3"></a>
 
 -   **GPL 3.0 2016**, *Jaxson Van Doorn*
 
-## Other Projects<a id="sec-1-3" name="sec-1-3"></a>
+## Other Projects<a id="sec-1-4" name="sec-1-4"></a>
 
 -   [Woofers3D](https://github.com/woofers/woofers3d)
 
